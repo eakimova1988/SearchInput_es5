@@ -1,8 +1,5 @@
 import React from 'react'
 import { connect } from 'react-redux'
-import {Promise} from 'es6-promise';
-import {updateDropDownList} from '../reducers/index.js'
-import data from '../testData.js'
 import {changeText,changeDataModel} from '../actions/index.js'
 
 
@@ -117,7 +114,7 @@ var SearchInput =React.createClass( {
     }
     this.setState(newState);
   },
-  handleFocusIn:function(e){
+  handleFocusIn:function(){
     this.updateFind();
     this.setState({
                     showPopup:true,
@@ -134,7 +131,6 @@ var SearchInput =React.createClass( {
   },
   updateFind:function(text=this.refs.input.value){
     var findText = text.trim();
-    //this.find(findText);
     this.props.functionFind(findText);
   },
   handleChangeText:function(e){
@@ -150,38 +146,15 @@ var SearchInput =React.createClass( {
       showPopup:false,
       selectedItem:-1
     }
-  },
-  // find:function(text){
-  //   var that = this;
-  //   text = text.trim();
-  //   var result = new Promise(function (resolve,reject) {
-  //       setTimeout(function () {
-  //         var arrData = data;
-  //         var newData = [];
-  //         for(var i=0;i<arrData.length;i++){
-  //           if(arrData[i].data.search( new RegExp(text, 'i'))!=-1){
-  //             newData.push(arrData[i]);
-  //           }
-  //         }
-  //         resolve(newData);
-  //       }, 100)
-  //     }
-  //   ).then(function(value){
-  //     that.props.handleChangeDataModel(value);
-  //     console.log('find ok');
-  //   },function(value){
-  //     console.log('find fail');
-  //   });
-  //   return result;
-  // }
+  }
 });
 
 function mapStateToProps (state) {
   return {
     inputText:state.inputText,
     currentItem:state.currentItem,
-    dataModel: state.dataModel,
-    isLoading:false
+    dataModel:state.dataModel,
+    isLoading:state.isLoading
   }
 }
 

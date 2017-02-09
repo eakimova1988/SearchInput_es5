@@ -16,7 +16,7 @@ var testText = 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
 
 function find(text) {
     text = text.trim();
-    var result = new Promise(function(resolve, reject) {
+    var result = new Promise(function(resolve) {
         store.dispatch(changeLoading(true));
         setTimeout(function() {
             var arrData = data;
@@ -31,7 +31,7 @@ function find(text) {
     }).then(function(value) {
         store.dispatch(changeLoading(false));
         store.dispatch(changeDataModel(value));
-    }, function(value) {
+    }, function() {
         store.dispatch(changeLoading(false));
     });
     return result;
