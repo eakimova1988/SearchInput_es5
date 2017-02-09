@@ -28,20 +28,8 @@ npm install
 npm start
 ```
 
-Visit [http://localhost:1002/](http://localhost:3000/).
+Visit [http://localhost:3000/](http://localhost:3000/).
 
 **Note:** This will run the pre-built JavaScript files, if you want to play around with the source
 you need to run the development server with webpack dev server (See below).
-
----
-
-## Running development server
-
-Run webpack dev server (for assets):
-
-```
-npm run start:dev
-```
-
-Visit [http://localhost:3000/](http://localhost:3000/).
 
