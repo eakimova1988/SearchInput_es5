@@ -1,235 +1,235 @@
-country_id,title_ru,title_en
-83,Ирак,Iraq
-7,Грузия,Georgia
-126,Мексика,Mexico
-35,Белиз,Belize
-29,Аруба,Aruba
-47,Бутан,Bhutan
-73,Дания,Denmark
-130,Монголия,Mongolia
-129,Монако,Monaco
-57,Гаити,Haiti
-85,Ирландия,Ireland
-120,Мали,Mali
-100,Конго,Congo
-72,Гуам,Guam
-25,Ангола,Angola
-104,Куба,Cuba
-106,Лаос,Laos
-110,Ливия,Libya
-60,Гана,Ghana
-59,Гамбия,Gambia
-36,Бельгия,Belgium
-37,Бенин,Benin
-231,Джибути,Djibouti
-95,Кипр,Cyprus
-15,Молдова,Moldova
-12,Латвия,Latvia
-88,Италия,Italy
-97,Китай,China
-77,Замбия,Zambia
-63,Гвинея,Guinea
-116,Макао,Macau
-80,Индия,India
-94,Кения,Kenya
-118,Малави,Malawi
-58,Гайана,Guyana
-89,Йемен,Yemen
-93,Катар,Qatar
-119,Малайзия,Malaysia
-99,Коморы,Comoros
-113,Маврикий,Mauritius
-132,Мьянма,Myanmar
-65,Германия,Germany
-134,Науру,Nauru
-135,Непал,Nepal
-233,Ватикан,Vatican
-201,Уганда,Uganda
-14,Эстония,Estonia
-182,Сингапур,Singapore
-228,Ямайка,Jamaica
-136,Нигер,Niger
-1,Россия,Russia
-140,Никарагуа,Nicaragua
-224,Эфиопия,Ethiopia
-181,Сербия,Serbia
-56,Габон,Gabon
-200,Турция,Turkey
-188,Судан,Sudan
-31,Багамы,Bahamas
-141,Ниуэ,Niue
-194,Того,Togo
-212,Хорватия,Croatia
-34,Бахрейн,Bahrain
-191,Таиланд,Thailand
-187,Сомали,Somalia
-153,Палау,Palau
-195,Токелау,Tokelau
-209,Франция,France
-207,Финляндия,Finland
-8,Израиль,Israel
-220,Шри-Ланка,Sri Lanka
-167,Самоа,Samoa
-176,Сенегал,Senegal
-171,Свазиленд,Swaziland
-38,Бермуды,Bermuda
-185,Словения,Slovenia
-192,Тайвань,Taiwan
-216,Чили,Chile
-9,США,USA
-205,Фиджи,Fiji
-198,Тувалу,Tuvalu
-144,Норвегия,Norway
-164,Руанда,Rwanda
-214,Чад,Chad
-147,Остров Мэн,Isle of Man
-146,Оман,Oman
-155,Панама,Panama
-158,Перу,Peru
-163,Реюньон,RГ©union
-221,Эквадор,Ecuador
-11,Кыргызстан,Kyrgyzstan
-84,Иран,Iran
-175,Сейшелы,Seychelles
-123,Марокко,Morocco
-90,Кабо-Верде,Cape Verde
-74,Доминика,Dominica
-149,Острова Кайман,Cayman Islands
-79,Зимбабве,Zimbabwe
-170,Саудовская Аравия,Saudi Arabia
-69,Гренада,Grenada
-131,Монтсеррат,Montserrat
-122,Мальта,Malta
-16,Таджикистан,Tajikistan
-203,Уругвай,Uruguay
-4,Казахстан,Kazakhstan
-199,Тунис,Tunisia
-10,Канада,Canada
-54,Восточный Тимор,East Timor
-24,Ангилья,Anguilla
-196,Тонга,Tonga
-81,Индонезия,Indonesia
-234,Синт-Мартен,Sint Maarten
-128,Мозамбик,Mozambique
-39,Болгария,Bulgaria
-82,Иордания,Jordan
-71,Греция,Greece
-108,Либерия,Liberia
-184,Словакия,Slovakia
-102,Коста-Рика,Costa Rica
-165,Румыния,Romania
-133,Намибия,Namibia
-107,Лесото,Lesotho
-117,Македония,Macedonia
-68,Гонконг,Hong Kong
-109,Ливан,Lebanon
-137,Нигерия,Nigeria
-193,Танзания,Tanzania
-197,Тринидад и Тобаго,Trinidad and Tobago
-62,Гватемала,Guatemala
-152,Пакистан,Pakistan
-103,Кот ди вуар,CГґte d`Ivoire
-229,Япония,Japan
-5,Азербайджан,Azerbaijan
-66,Гибралтар,Gibraltar
-78,Западная Сахара,Western Sahara
-124,Мартиника,Martinique
-18,Узбекистан,Uzbekistan
-50,Венгрия,Hungary
-112,Люксембург,Luxembourg
-206,Филиппины,Philippines
-43,Бразилия,Brazil
-87,Испания,Spain
-202,Уоллис и Футуна,Wallis and Futuna
-20,Австрия,Austria
-114,Мавритания,Mauritania
-30,Афганистан,Afghanistan
-13,Литва,Lithuania
-3,Беларусь,Belarus
-217,Швейцария,Switzerland
-143,Новая Каледония,New Caledonia
-138,Кюрасао,CuraГ§ao
-204,Фарерские острова,Faroe Islands
-17,Туркменистан,Turkmenistan
-40,Боливия,Bolivia
-156,Папуа - Новая Гвинея,Papua New Guinea
-186,Соломоновы Острова,Solomon Islands
-49,Великобритания,United Kingdom
-115,Мадагаскар,Madagascar
-222,Экваториальная Гвинея,Equatorial Guinea
-92,Камерун,Cameroon
-44,Бруней-Даруссалам,Brunei Darussalam
-2,Украина,Ukraine
-230,Черногория,Montenegro
-190,Сьерра-Леоне,Sierra Leone
-166,Сальвадор,El Salvador
-142,Новая Зеландия,New Zealand
-183,Сирийская Арабская Республика,Syria
-210,Французская Гвиана,French Guiana
-19,Австралия,Australia
-26,Андорра,Andorra
-51,Венесуэла,Venezuela
-145,Объединенные Арабские Эмираты,United Arab Emirates
-168,Сан-Марино,San Marino
-64,Гвинея-Бисау,Guinea-Bissau
-32,Бангладеш,Bangladesh
-42,Ботсвана,Botswana
-21,Албания,Albania
-70,Гренландия,Greenland
-232,Южный Судан,South Sudan
-173,Северная Корея,North Korea
-148,Остров Норфолк,Norfolk Island
-53,Виргинские острова, США,US Virgin Islands
-67,Гондурас,Honduras
-75,Доминиканская Республика,Dominican Republic
-61,Гваделупа,Guadeloupe
-105,Кувейт,Kuwait
-213,Центрально-Африканская Республика,Central African Republic
-174,Северные Марианские острова,Northern Mariana Islands
-215,Чехия,Czech Republic
-139,Нидерланды,Netherlands
-52,Виргинские острова, Британские,British Virgin Islands
-169,Сан-Томе и Принсипи,SГЈo TomГ© and PrГ­ncipe
-46,Бурунди,Burundi
-189,Суринам,Suriname
-150,Острова Кука,Cook Islands
-172,Святая Елена,Saint Helena
-178,Сент-Китс и Невис,Saint Kitts and Nevis
-208,Фолклендские острова,Falkland Islands
-48,Вануату,Vanuatu
-226,Южная Корея,South Korea
-227,Южно-Африканская Республика,South Africa
-55,Вьетнам,Vietnam
-101,Конго, демократическая республика,Congo, Democratic Republic
-76,Египет,Egypt
-96,Кирибати,Kiribati
-162,Пуэрто-Рико,Puerto Rico
-223,Эритрея,Eritrea
-211,Французская Полинезия,French Polynesia
-151,Острова Теркс и Кайкос,Turks and Caicos Islands
-157,Парагвай,Paraguay
-160,Польша,Poland
-177,Сент-Винсент,Saint Vincent and the Grenadines
-154,Палестинская автономия,Palestine
-219,Шпицберген и Ян Майен,Svalbard and Jan Mayen
-22,Алжир,Algeria
-33,Барбадос,Barbados
-45,Буркина-Фасо,Burkina Faso
-98,Колумбия,Colombia
-86,Исландия,Iceland
-121,Мальдивы,Maldives
-125,Маршалловы Острова,Marshall Islands
-127,Микронезия, федеративные штаты,Micronesia
-159,Питкерн,Pitcairn Islands
-180,Сент-Пьер и Микелон,Saint Pierre and Miquelon
-218,Швеция,Sweden
-23,Американское Самоа,American Samoa
-27,Антигуа и Барбуда,Antigua and Barbuda
-28,Аргентина,Argentina
-6,Армения,Armenia
-91,Камбоджа,Cambodia
-235,Бонайре, Синт-Эстатиус и Саба,Bonaire, Sint Eustatius and Saba
-161,Португалия,Portugal
-179,Сент-Люсия,Saint Lucia
-41,Босния и Герцеговина,Bosnia and Herzegovina
-111,Лихтенштейн,Liechtenstein
+﻿country_id;title_ru;title_en
+83;Ирак;Iraq
+7;Грузия;Georgia
+126;Мексика;Mexico
+35;Белиз;Belize
+29;Аруба;Aruba
+47;Бутан;Bhutan
+73;Дания;Denmark
+130;Монголия;Mongolia
+129;Монако;Monaco
+57;Гаити;Haiti
+85;Ирландия;Ireland
+120;Мали;Mali
+100;Конго;Congo
+72;Гуам;Guam
+25;Ангола;Angola
+104;Куба;Cuba
+106;Лаос;Laos
+110;Ливия;Libya
+60;Гана;Ghana
+59;Гамбия;Gambia
+36;Бельгия;Belgium
+37;Бенин;Benin
+231;Джибути;Djibouti
+95;Кипр;Cyprus
+15;Молдова;Moldova
+12;Латвия;Latvia
+88;Италия;Italy
+97;Китай;China
+77;Замбия;Zambia
+63;Гвинея;Guinea
+116;Макао;Macau
+80;Индия;India
+94;Кения;Kenya
+118;Малави;Malawi
+58;Гайана;Guyana
+89;Йемен;Yemen
+93;Катар;Qatar
+119;Малайзия;Malaysia
+99;Коморы;Comoros
+113;Маврикий;Mauritius
+132;Мьянма;Myanmar
+65;Германия;Germany
+134;Науру;Nauru
+135;Непал;Nepal
+233;Ватикан;Vatican
+201;Уганда;Uganda
+14;Эстония;Estonia
+182;Сингапур;Singapore
+228;Ямайка;Jamaica
+136;Нигер;Niger
+1;Россия;Russia
+140;Никарагуа;Nicaragua
+224;Эфиопия;Ethiopia
+181;Сербия;Serbia
+56;Габон;Gabon
+200;Турция;Turkey
+188;Судан;Sudan
+31;Багамы;Bahamas
+141;Ниуэ;Niue
+194;Того;Togo
+212;Хорватия;Croatia
+34;Бахрейн;Bahrain
+191;Таиланд;Thailand
+187;Сомали;Somalia
+153;Палау;Palau
+195;Токелау;Tokelau
+209;Франция;France
+207;Финляндия;Finland
+8;Израиль;Israel
+220;Шри-Ланка;Sri Lanka
+167;Самоа;Samoa
+176;Сенегал;Senegal
+171;Свазиленд;Swaziland
+38;Бермуды;Bermuda
+185;Словения;Slovenia
+192;Тайвань;Taiwan
+216;Чили;Chile
+9;США;USA
+205;Фиджи;Fiji
+198;Тувалу;Tuvalu
+144;Норвегия;Norway
+164;Руанда;Rwanda
+214;Чад;Chad
+147;Остров Мэн;Isle of Man
+146;Оман;Oman
+155;Панама;Panama
+158;Перу;Peru
+163;Реюньон;RГ©union
+221;Эквадор;Ecuador
+11;Кыргызстан;Kyrgyzstan
+84;Иран;Iran
+175;Сейшелы;Seychelles
+123;Марокко;Morocco
+90;Кабо-Верде;Cape Verde
+74;Доминика;Dominica
+149;Острова Кайман;Cayman Islands
+79;Зимбабве;Zimbabwe
+170;Саудовская Аравия;Saudi Arabia
+69;Гренада;Grenada
+131;Монтсеррат;Montserrat
+122;Мальта;Malta
+16;Таджикистан;Tajikistan
+203;Уругвай;Uruguay
+4;Казахстан;Kazakhstan
+199;Тунис;Tunisia
+10;Канада;Canada
+54;Восточный Тимор;East Timor
+24;Ангилья;Anguilla
+196;Тонга;Tonga
+81;Индонезия;Indonesia
+234;Синт-Мартен;Sint Maarten
+128;Мозамбик;Mozambique
+39;Болгария;Bulgaria
+82;Иордания;Jordan
+71;Греция;Greece
+108;Либерия;Liberia
+184;Словакия;Slovakia
+102;Коста-Рика;Costa Rica
+165;Румыния;Romania
+133;Намибия;Namibia
+107;Лесото;Lesotho
+117;Македония;Macedonia
+68;Гонконг;Hong Kong
+109;Ливан;Lebanon
+137;Нигерия;Nigeria
+193;Танзания;Tanzania
+197;Тринидад и Тобаго;Trinidad and Tobago
+62;Гватемала;Guatemala
+152;Пакистан;Pakistan
+103;Кот ди вуар;CГґte d`Ivoire
+229;Япония;Japan
+5;Азербайджан;Azerbaijan
+66;Гибралтар;Gibraltar
+78;Западная Сахара;Western Sahara
+124;Мартиника;Martinique
+18;Узбекистан;Uzbekistan
+50;Венгрия;Hungary
+112;Люксембург;Luxembourg
+206;Филиппины;Philippines
+43;Бразилия;Brazil
+87;Испания;Spain
+202;Уоллис и Футуна;Wallis and Futuna
+20;Австрия;Austria
+114;Мавритания;Mauritania
+30;Афганистан;Afghanistan
+13;Литва;Lithuania
+3;Беларусь;Belarus
+217;Швейцария;Switzerland
+143;Новая Каледония;New Caledonia
+138;Кюрасао;CuraГ§ao
+204;Фарерские острова;Faroe Islands
+17;Туркменистан;Turkmenistan
+40;Боливия;Bolivia
+156;Папуа - Новая Гвинея;Papua New Guinea
+186;Соломоновы Острова;Solomon Islands
+49;Великобритания;United Kingdom
+115;Мадагаскар;Madagascar
+222;Экваториальная Гвинея;Equatorial Guinea
+92;Камерун;Cameroon
+44;Бруней-Даруссалам;Brunei Darussalam
+2;Украина;Ukraine
+230;Черногория;Montenegro
+190;Сьерра-Леоне;Sierra Leone
+166;Сальвадор;El Salvador
+142;Новая Зеландия;New Zealand
+183;Сирийская Арабская Республика;Syria
+210;Французская Гвиана;French Guiana
+19;Австралия;Australia
+26;Андорра;Andorra
+51;Венесуэла;Venezuela
+145;Объединенные Арабские Эмираты;United Arab Emirates
+168;Сан-Марино;San Marino
+64;Гвинея-Бисау;Guinea-Bissau
+32;Бангладеш;Bangladesh
+42;Ботсвана;Botswana
+21;Албания;Albania
+70;Гренландия;Greenland
+232;Южный Судан;South Sudan
+173;Северная Корея;North Korea
+148;Остров Норфолк;Norfolk Island
+53;Виргинские острова, США;US Virgin Islands
+67;Гондурас;Honduras
+75;Доминиканская Республика;Dominican Republic
+61;Гваделупа;Guadeloupe
+105;Кувейт;Kuwait
+213;Центрально-Африканская Республика;Central African Republic
+174;Северные Марианские острова;Northern Mariana Islands
+215;Чехия;Czech Republic
+139;Нидерланды;Netherlands
+52;Виргинские острова, Британские;British Virgin Islands
+169;Сан-Томе и Принсипи;SГЈo TomГ© and PrГ­ncipe
+46;Бурунди;Burundi
+189;Суринам;Suriname
+150;Острова Кука;Cook Islands
+172;Святая Елена;Saint Helena
+178;Сент-Китс и Невис;Saint Kitts and Nevis
+208;Фолклендские острова;Falkland Islands
+48;Вануату;Vanuatu
+226;Южная Корея;South Korea
+227;Южно-Африканская Республика;South Africa
+55;Вьетнам;Vietnam
+101;Конго, демократическая республика;Congo, Democratic Republic
+76;Египет;Egypt
+96;Кирибати;Kiribati
+162;Пуэрто-Рико;Puerto Rico
+223;Эритрея;Eritrea
+211;Французская Полинезия;French Polynesia
+151;Острова Теркс и Кайкос;Turks and Caicos Islands
+157;Парагвай;Paraguay
+160;Польша;Poland
+177;Сент-Винсент;Saint Vincent and the Grenadines
+154;Палестинская автономия;Palestine
+219;Шпицберген и Ян Майен;Svalbard and Jan Mayen
+22;Алжир;Algeria
+33;Барбадос;Barbados
+45;Буркина-Фасо;Burkina Faso
+98;Колумбия;Colombia
+86;Исландия;Iceland
+121;Мальдивы;Maldives
+125;Маршалловы Острова;Marshall Islands
+127;Микронезия, федеративные штаты;Micronesia
+159;Питкерн;Pitcairn Islands
+180;Сент-Пьер и Микелон;Saint Pierre and Miquelon
+218;Швеция;Sweden
+23;Американское Самоа;American Samoa
+27;Антигуа и Барбуда;Antigua and Barbuda
+28;Аргентина;Argentina
+6;Армения;Armenia
+91;Камбоджа;Cambodia
+235;Бонайре, Синт-Эстатиус и Саба;Bonaire, Sint Eustatius and Saba
+161;Португалия;Portugal
+179;Сент-Люсия;Saint Lucia
+41;Босния и Герцеговина;Bosnia and Herzegovina
+111;Лихтенштейн;Liechtenstein
